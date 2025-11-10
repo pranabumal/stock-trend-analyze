@@ -31,6 +31,15 @@ The **Stock Price vs Search Trends Analyzer** is designed to help students, anal
 
 ---
 
+## 📸 Screenshots
+
+### Application Interface
+![Stock Price vs Search Trends Analyzer - Main Interface](docs/images/image.png)
+
+*The main interface showing stock selection, configuration, and analysis results with interactive charts*
+
+---
+
 ## 🎯 What It Does
 
 ### Core Functionality

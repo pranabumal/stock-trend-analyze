@@ -19,6 +19,8 @@ An interactive web application that analyzes correlations between stock market p
 - [Project Structure](#project-structure)
 - [Features](#features)
 - [Technologies](#technologies)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
 - [Troubleshooting](#troubleshooting)
 
 ---
@@ -625,9 +627,57 @@ For improvements and bug reports, please contact the development team.
 
 ---
 
+## 🤝 Contributing
+
+We welcome contributions from the community! Whether you're fixing bugs, adding features, improving documentation, or suggesting ideas, we'd love to have your help.
+
+### Getting Started with Contributions
+
+1. **Fork the Repository** - Click "Fork" on GitHub
+2. **Clone Your Fork** - `git clone https://github.com/YOUR_USERNAME/stock-trend-analyze.git`
+3. **Create a Branch** - `git checkout -b feature/your-feature-name`
+4. **Make Changes** - Follow our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines
+5. **Submit a Pull Request** - We'll review and merge your contribution
+
+### Types of Contributions We Accept
+
+- 🐛 **Bug Reports & Fixes** - Help us squash bugs
+- ✨ **New Features** - Suggest and implement new functionality
+- 📝 **Documentation** - Improve guides, examples, and comments
+- � **UI/UX Improvements** - Make the app more user-friendly
+- 🧪 **Tests** - Increase code coverage and reliability
+- 💡 **Ideas & Discussions** - Suggest improvements in Issues
+
+### For More Details
+
+👉 See [CONTRIBUTING.md](CONTRIBUTING.md) for:
+- Detailed contribution process
+- Code style guidelines
+- Testing requirements
+- PR submission checklist
+- Development setup
+
+### Contributors
+
+We recognize and celebrate all contributions! See [CONTRIBUTORS.md](CONTRIBUTORS.md) for a list of amazing people who've helped this project.
+
+---
+
+## 📜 Code of Conduct
+
+We are committed to maintaining a welcoming and inclusive community. All contributors and participants are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+**Key principles:**
+- ✅ Be respectful and kind
+- ✅ Be inclusive and welcoming
+- ✅ Assume good intentions
+- ✅ Report violations appropriately
+
+---
+
 ## 🆘 Support
 
-If you encounter issues:
+Troubleshooting
 
 1. Check the [Troubleshooting](#troubleshooting) section
 2. Review `.env` configuration
